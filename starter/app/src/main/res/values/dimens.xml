@@ -2,6 +2,10 @@
 <resources>
     <dimen name="default_padding">8dp</dimen>
 
-    <!-- TODO: Add necessary dimension values -->s
+    <dimen name="election_fragment_upcoming_elections_text_view_margin_start">20dp</dimen>
+    <dimen name="election_fragment_upcoming_elections_recycler_view_margin_top">18dp</dimen>
+    <dimen name="election_fragment_saved_elections_recycler_view_margin_top">18dp</dimen>
+
+    <dimen name="voter_info_fragment_election_information_text_view_margin_top">8dp</dimen>
 
 </resources>

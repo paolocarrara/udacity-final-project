@@ -2,6 +2,25 @@
 <resources>
     <string name="app_name">Political Preparedness</string>
 
-    <!-- TODO: Add necessary string values -->
+    <string name="launch_fragment_upcoming_elections">Upcoming elections</string>
+    <string name="launch_fragment_find_my_representatives">Find my representatives</string>
 
+    <string name="election_fragment_upcoming_elections">Upcoming Elections</string>
+    <string name="election_fragment_saved_elections">Saved Elections</string>
+
+    <string name="voter_info_fragment_election_information_text">Election information</string>
+    <string name="voter_info_fragment_voting_locations_text">Voting Locations</string>
+    <string name="voter_info_fragment_ballot_information_text">Ballot Information</string>
+    <string name="voter_info_fragment_address_information_text">Address Information</string>
+    <string name="voter_info_fragment_follow_button_text">Follow</string>
+    <string name="voter_info_fragment_unfollow_button_text">Unfollow</string>
+
+    <string name="representative_fragment_title">Representative Search</string>
+    <string name="representative_fragment_address_line_one_hint">Address line 1</string>
+    <string name="representative_fragment_address_line_two_hint">Address line 2</string>
+    <string name="representative_fragment_city_hint">City</string>
+    <string name="representative_fragment_zip_hint">Zip</string>
+    <string name="representative_fragment_find_my_representatives_button_text">Find my representatives</string>
+    <string name="representative_fragment_use_my_location_button_text">Use my location</string>
+    <string name="representative_fragment_my_representatives">My Representatives</string>
 </resources>
